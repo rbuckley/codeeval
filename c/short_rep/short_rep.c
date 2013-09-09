@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define LINE_SIZE 1024
+#define LINE_SIZE 80
 int main (int argc, char **argv)
 {
    FILE *f;
